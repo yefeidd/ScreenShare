@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenShare</string>
+    <string name="setting_ip">设置IP</string>
+    <string name="start">启动</string>
+    <string name="rtmp_scheme">rtmp://</string>
+    <string name="default_path">/live/test</string>
+</resources>
