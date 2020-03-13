@@ -1,5 +1,6 @@
 # ScreenShare
-------------------------------
+=============
+
 ### 测试服务器 [Node-Media-Server](https://github.com/illuspas/Node-Media-Server)
 
 - 运行服务器运
@@ -8,10 +9,11 @@
 ### 电脑端
 ffplay播放测试：`ffplay rtmp://<ip>/live/test`
 
-![](Screenshot.png)
+![](https://github.com/sclimin/ScreenShare/blob/master/Screenshot.png)
 
 #### 使用的三方库
-----
+===============
+
 [SimpleRtmp](https://github.com/faucamp/SimpleRtmp)
 
 [yasea](https://github.com/begeekmyfriend/yasea)
